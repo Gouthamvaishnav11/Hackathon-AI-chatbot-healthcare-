@@ -126,3 +126,17 @@ It empowers citizens with **instant, safe, and reliable** health guidance throug
 For queries or collaborations, please reach out at:  
 📧 [gouthamvaishnav8@gmail.com]  
 🎥 **[Click here to view the demo](https://drive.google.com/file/d/1d2rkiHQsIJyXmX_A63x6EjNaoPDhHV28/view?usp=drive_link)**  
+
+<img width="600" height="600" alt="Screenshot 2025-10-08 181657" src="https://github.com/user-attachments/assets/3416f552-746d-41f4-9837-2a840e641436" />
+
+---
+<img width="1000" height="745" alt="Screenshot 2025-10-08 181725" src="https://github.com/user-attachments/assets/b3850db4-43e1-4518-8686-9ff9eea701d3" />
+
+---
+
+<img width="1000" height="910" alt="Screenshot 2025-10-08 181801" src="https://github.com/user-attachments/assets/ac42d5ae-d7af-46f1-b1e9-39d3d53ab89a" />
+
+---
+
+<img width="1000" height="542" alt="Screenshot 2025-10-08 181851" src="https://github.com/user-attachments/assets/d196c95a-629d-4a97-a843-4025702772c1" />
+
