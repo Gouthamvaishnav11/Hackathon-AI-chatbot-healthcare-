@@ -127,10 +127,10 @@ For queries or collaborations, please reach out at:
 📧 [gouthamvaishnav8@gmail.com]  
 🎥 **[Click here to view the demo](https://drive.google.com/file/d/1d2rkiHQsIJyXmX_A63x6EjNaoPDhHV28/view?usp=drive_link)**  
 
-<img width="600" height="600" alt="Screenshot 2025-10-08 181657" src="https://github.com/user-attachments/assets/3416f552-746d-41f4-9837-2a840e641436" />
+<img width="1000" height="600" alt="Screenshot 2025-10-08 181657" src="https://github.com/user-attachments/assets/3416f552-746d-41f4-9837-2a840e641436" />
 
 ---
-<img width="1000" height="745" alt="Screenshot 2025-10-08 181725" src="https://github.com/user-attachments/assets/b3850db4-43e1-4518-8686-9ff9eea701d3" />
+<img width="1000" height="700" alt="Screenshot 2025-10-08 181725" src="https://github.com/user-attachments/assets/b3850db4-43e1-4518-8686-9ff9eea701d3" />
 
 ---
 
