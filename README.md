@@ -80,7 +80,7 @@ Response is sent back via WhatsApp in the **user’s original language**, ensuri
 ---
 
 ## 📊 5. Workflow Architecture  
-<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/a0d85f33-9407-449e-900f-1ee2431f8c06" />
+<img width="250" height="250" alt="image" src="https://github.com/user-attachments/assets/a0d85f33-9407-449e-900f-1ee2431f8c06" />
 
 
 ---
