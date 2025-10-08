@@ -33,7 +33,9 @@ Users can describe their symptoms naturally (e.g., “I have fever and cold sinc
 - 👨‍⚕️ Doctor/hospital contact details (if consultation is required)  
 - 🚨 Emergency alerts in critical cases  
 
----
+It also provides health improvement tips to help maintain a healthy body. For example, if you ask about yoga, healthy foods, or fitness advice, the bot will share useful messages related to overall health and wellness.
+ 
+ ---
 
 ## 🔁 Workflow Summary  
 
